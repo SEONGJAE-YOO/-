@@ -15,3 +15,7 @@ choice102@khu.ac.kr (I.Y.C.); pahunter@khu.ac.kr (H.S.M.)
 3 School of Management, Kyunghee University, Seoul 02447, Korea; jaek@khu.ac.kr * Correspondence: jaek @khu.ac.kr; Tel +82–2- 961–9355(J.K.K.)
 
 Received: 13 December 2019; Accepted: 23 January 2020; Published: 29 January 2020
+
+
+# 저의 깃 블로그에서도 확인이 가능합니다
+# [https://codingstorylove.github.io/front-end/AMultiPeriodProductRecommenderSysteminOnlineFoodMarketbasedonRecurrentNeuralNetworks/#page-title](https://codingstorylove.github.io/front-end/AMultiPeriodProductRecommenderSysteminOnlineFoodMarketbasedonRecurrentNeuralNetworks/#page-title)
